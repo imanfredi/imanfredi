@@ -2,6 +2,7 @@
 
 I'm a software engineer student
 
+![](https://visitor-badge.glitch.me/badge?page_id=imanfredi.imanfredi)
 
 <!--
 **imanfredi/imanfredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
