@@ -27,11 +27,11 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-46a2f1?style=flat-square&logo=Vuetify&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-E34F26?style=flat-square&logo=Assembly&logoColor=white" />
+  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-E34F26?style=flat-square" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-46a2f1?style=flat-square&logo=Typescript&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white" />
